@@ -1,0 +1,10 @@
+numpy==1.20.2
+transformers==4.6.1
+Flask==1.1.2
+torch==1.7.1+cpu
+requests==2.25.1
+pandas==1.1.5
+tqdm==4.32.1
+apex==0.9.10dev
+scikit_learn==0.24.2
+tensorboardX==2.4
