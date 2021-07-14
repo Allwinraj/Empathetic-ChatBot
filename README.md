@@ -21,8 +21,8 @@ Dataset is cleaned and convert into conversation data.
 ![Sample Output](https://github.com/Allwinraj/Empathetic-ChatBot/blob/main/Output.png)
 
 ### REFERENCE:
-a. https://research.fb.com/publications/towards-empathetic-open-domain-conversation-models-a-new-benchmark-and-dataset/
+[1]. https://research.fb.com/publications/towards-empathetic-open-domain-conversation-models-a-new-benchmark-and-dataset/
 
-b. https://huggingface.co/
+[2]. https://huggingface.co/
 
 
