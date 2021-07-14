@@ -18,7 +18,7 @@ Model training on publicly-available empathetic dialogue generation and EMPATHET
 Dataset is cleaned and convert into conversation data.
 
 ### OUTPUT:
-![GitHub Logo](/images/logo.png)
+![Sample Output](https://github.com/Allwinraj/Empathetic-ChatBot/blob/main/Output.png)
 
 ### REFERENCE:
 a. https://research.fb.com/publications/towards-empathetic-open-domain-conversation-models-a-new-benchmark-and-dataset/
